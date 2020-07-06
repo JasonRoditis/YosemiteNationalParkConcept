@@ -201,6 +201,7 @@ button:hover {
 @media (max-width: 620px) {
     .hero h2 {
         font-size: 28px;
+        line-height: 60px;
     }
     .title {
         font-size: 20px;
